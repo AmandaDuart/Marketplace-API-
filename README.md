@@ -63,9 +63,7 @@ To access the database's information:
 # Contributors
 
  - [Amanda Duarte](https://github.com/AmandaDuart)
- - [Jarom Aidukaitis](https://github.com/jaromaidukaitis)
- - [Joaquim Moraes](https://github.com/Joaquim09Castro)
- - [Paula Gomes](https://github.com/paula-gomes)
+
 
 # Project Status
 
